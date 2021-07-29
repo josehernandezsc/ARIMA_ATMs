@@ -5,4 +5,4 @@ R Code for processing ATMs consumption data across several ATMs in Colombia with
 
 Code includes data pre-processing and modelling using an ARIMA model and hyperparameter search along with a rolling statistics optimization (window from 3 to 7 steps).
 
-Code property: Jose Francisco Hernandez Santa Cruz, IBM Peru Consultant, Expert Lab Services.
+Code property: Jose Francisco Hernandez Santa Cruz
